@@ -1,0 +1,21 @@
+#graph {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	height: 400px;
+	width: 1000px;
+	position: relative;
+}
+
+.bar {
+
+	float: left;
+	background-color: rgb( 140, 206, 255);
+	width: 40px;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: .5px solid black;
+	text-align: center;
+}

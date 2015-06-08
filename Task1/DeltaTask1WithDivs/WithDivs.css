@@ -1,0 +1,15 @@
+.box {
+	height: 50px;
+	width: 50px;
+	float: left;
+}
+
+#leftbox {
+	background-color: rgb(175,8,8);
+
+}
+
+#rightbox {
+	background-color: rgb(175,8,8);
+	margin-left: 10px;
+}
